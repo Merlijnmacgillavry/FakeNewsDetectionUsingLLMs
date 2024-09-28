@@ -1,0 +1,5 @@
+external_files/
+venv/  
+venv
+external_files
+__pycache__
