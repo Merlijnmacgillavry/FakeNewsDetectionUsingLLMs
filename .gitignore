@@ -1,5 +1,4 @@
 external_files/
 venv/  
-venv
-external_files
 __pycache__
+data/in/
