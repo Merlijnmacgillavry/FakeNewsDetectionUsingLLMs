@@ -1,4 +1,10 @@
-external_files/
+external_files/LIWC2015_English.dic
 venv/  
 __pycache__
 data/in/
+data/out/analyze_data/
+data/out/predictions/
+data/out/results/
+data/intermediate_steps/
+models/
+data/out/merge/
